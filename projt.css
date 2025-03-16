@@ -1,0 +1,295 @@
+
+body{
+    background: #f5ecec;
+}
+
+.main {
+    width: 100%;
+    height: 2.6em;
+    background-color: #0066EC;
+    justify-content: space-evenly;
+    font-size: medium;
+}
+
+.one {
+    color: aliceblue;
+    position: relative;
+    top: 0.6em;
+    left: 4em;
+    font-size: medium;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+span {
+    position: relative;
+    top: 0.2em;
+    right: 0.2em;
+    font-size: smaller;
+}
+
+.two {
+    position: relative;
+    left: 23em;
+    bottom: 0.7em;
+
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.thre {
+    position: relative;
+    left: 70em;
+    bottom: 1.7em;
+    cursor: pointer;
+}
+
+
+/* .thre:hover{
+    color:rebeccapurple ;
+} */
+
+
+.four {
+    position: relative;
+    top: 1.1em;
+    left: 3em;
+}
+
+a {
+    color: black;
+
+
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    justify-content: space-evenly;
+    padding: 0.6em;
+}
+
+.five {
+    position: relative;
+    left: 29em;
+    bottom: 2.3em;
+}
+
+.logo {
+    color: aliceblue;
+}
+
+.six {
+    position: relative;
+    left: 59em;
+    bottom: 4.9em;
+    cursor: pointer;
+}
+
+.sevn {
+    background-color: #0066EC;
+    width: 10em;
+    height: 3.4em;
+    color: aliceblue;
+    position: relative;
+    left: 63em;
+    bottom: 8.7em;
+
+
+}
+
+.book {
+    font-weight: bolder;
+    padding-top: 0.9em;
+    padding-left: 1.5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sevn:hover {
+    transition: 2s;
+    background-color: black;
+    cursor: pointer;
+}
+.main-2{
+background-image: url(./11WhatsApp\ Image\ 2025-02-26\ at\ 00.19.07_8f1f7fa2.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+width: 100%;
+height: 600px;
+position: relative;
+top: 7em;
+}
+.buton-1{
+    background-color: #0066EC;;
+    border-radius: 19px;
+    color: rgb(255, 255, 255);
+    padding: 9px;
+    position: relative;
+    top: 6.2em;
+    border: none;
+    left: 0.5em;
+    font-weight:600;
+    font-size: 19px;
+    cursor: pointer;
+    height: 2.4em;
+    
+}
+h1{
+    position: relative;
+    top: 1.5em;
+     left: 0.2em; 
+     font-weight: 500;
+    font-size: 60px;
+    
+}
+#visa{
+    color: #0066EC;
+    font-size: 55px;
+    font-weight: 900;
+     padding-left: 0.2em; 
+    
+}
+.para-1{
+    position: relative;
+    top: 4.7em;
+    left: 1.6em;
+    font-family: "Nunito" serif;
+    word-spacing: 0.2em;
+    font-size: 600;
+
+}
+a:hover{
+    color: #0066EC;
+}
+.fctwt:hover{
+    background-color: black;
+}
+.butn{
+    position: relative;
+    top: 6em;
+    left: 1.5em;
+
+    
+}
+.buton-2{
+    background-color: #0066EC;
+    color: aliceblue;
+    width: 8em;
+    height: 3em;
+    border: none;
+    border-radius: 5em;
+    font-size: large;
+    font-weight: 700;
+}
+.buton-3{
+    background-color: #ffffff;
+    color:#0066EC;
+    width: 8em;
+    height: 3em;
+    border: none;
+    border-radius: 5em;
+    font-size: large;
+    font-weight: 700;
+    margin-left:1.5em;
+}
+.buton-2:hover{
+    transition: 2s;
+    background-color: black;
+    cursor: pointer;
+}
+.buton-3:hover{
+    transition: 2s;
+    color: #ffffff;
+    background-color: #0066EC;
+    cursor: pointer;
+
+}
+ .flag{
+   width: 70px;
+   height: auto;
+   border-radius: 50%;
+ }
+ .country{
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    background-color: #fbf4f4;
+    width: 15%;
+    height: 13em;
+    position: relative;
+    left: 8em;
+    top: 4em;
+    border-top:1.5px solid #0066EC ;
+
+ }
+h2{
+    margin: 10px 0;
+}
+.container{
+    display: flex;
+}
+.country-1{
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    background-color: #fbf4f4;
+    width: 15%;
+    height: 13em;
+    position: relative;
+    left: 11.5em;
+    top: 4em;
+    border-top:1.5px solid #0066EC ;
+}
+.booking-link{
+    color: #0066EC;
+    font-weight: 700;
+    font-size: large;
+    position: relative;
+    top: 1em;
+}
+h2{
+    position: relative;
+    top: 0em;
+}
+.country-2{
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    background-color: #fbf4f4;
+    width:15%;
+    height: 13em;
+    position: relative;
+    left: 15em;
+    top: 4em;
+    border-top:1.5px solid #0066EC ;
+}
+.flag-1{
+    width: 70px;
+    height: auto;
+    border-radius: 50%;
+    padding-top: 1.5em;
+
+}
+.country-3{
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    background-color: #fbf4f4;
+    width:15%;
+    height: 13em;
+    position: relative;
+    left: 18.5em;
+    top: 4em;
+    border-top:1.5px solid #0066EC ;
+}
+.main-1{
+    position: sticky;
+    top: 0em;
+    bottom:9em
+    
+}
+
+
